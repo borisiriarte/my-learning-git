@@ -1,0 +1,24 @@
+* 1dd2ebd Adding a paraghraph
+*   43f46f4 Solving merge error due to bad practice in year seasons with initial date
+|\  
+| * b7b3e6b Adding year seasons
+* | 072606b Adding year seasons with initial date
+|/  
+* 8a96c50 Adding extra info inside script file
+* 0fd70a7 Fixing a type error from index.html
+*   da76683 Solving conflict merge main html in index.html file
+|\  
+| * 9da3505 Adding Index.js to Index.html
+* | af74d90 Adding Style.css to index.html
+* | beb38e2 Adding Style.css to index.html
+* |   36cedeb Merge branch 'script' into main
+|\ \  
+| * | c06e558 creating script.js
+* | | 7b982f8 creating style.css
+| |/  
+|/|   
+* | 70967ba creating index.html
+|/  
+* b134c3c second commit
+* fa470b7 license.txt
+* 4f94641 first commitment
