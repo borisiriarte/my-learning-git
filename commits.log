@@ -1,0 +1,104 @@
+commit 1dd2ebd08247b46fa4f050d70de987e37828ba41
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 12:44:03 2023 -0400
+
+    Adding a paraghraph
+
+commit 43f46f4400118b701f685a530191fd040eb92429
+Merge: 072606b b7b3e6b
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 12:32:00 2023 -0400
+
+    Solving merge error due to bad practice in year seasons with initial date
+
+commit 072606b6ceab4d23d831b5101bda5e65802c49f6
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 12:16:19 2023 -0400
+
+    Adding year seasons with initial date
+
+commit b7b3e6b1f170e78e07facfbfb7edbd62c8a99c10
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 12:16:19 2023 -0400
+
+    Adding year seasons
+
+commit 8a96c50a61b35d67d6f6711965f85a635ea77cb5
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 12:04:31 2023 -0400
+
+    Adding extra info inside script file
+
+commit 0fd70a7b67e698b926d9ec2fed59cad41d313f05
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 11:51:31 2023 -0400
+
+    Fixing a type error from index.html
+
+commit da76683cd05924f19efbe7d3d21ceb3475eb5055
+Merge: af74d90 9da3505
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 11:49:50 2023 -0400
+
+    Solving conflict merge main html in index.html file
+
+commit 9da35057cad194e401ec8be0a3c2d2d0ce1bc1f3
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 11:43:17 2023 -0400
+
+    Adding Index.js to Index.html
+
+commit af74d9062b3eb10754164d47bc20e77758ab8695
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 11:41:11 2023 -0400
+
+    Adding Style.css to index.html
+
+commit beb38e2cc072c08a7acfd598de9a867462605644
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 11:39:58 2023 -0400
+
+    Adding Style.css to index.html
+
+commit 36cedeb927269ff99c8776e0fade56ed27dd46bc
+Merge: 7b982f8 c06e558
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 11:30:19 2023 -0400
+
+    Merge branch 'script' into main
+
+commit c06e558f58f8487f405dfc425de801a26edf03e5
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 11:23:21 2023 -0400
+
+    creating script.js
+
+commit 7b982f8864a338e890d9147152b583a021ef7380
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 11:18:09 2023 -0400
+
+    creating style.css
+
+commit 70967ba9fe00a0065ec1ee3a91971d5074f988a0
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Fri Jun 9 11:13:32 2023 -0400
+
+    creating index.html
+
+commit b134c3cf6e73398cd6c42356baab68f773201a94
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Thu Jun 8 21:20:36 2023 -0400
+
+    second commit
+
+commit fa470b78e074db0dca1f78a44b7d12d4263ae4da
+Author: Boris Iriarte Miashiro <105395882+Boris2514@users.noreply.github.com>
+Date:   Thu Jun 8 21:18:19 2023 -0400
+
+    license.txt
+
+commit 4f94641cf19942e7d9faeaf3be20a50a810b26ca
+Author: Boris2514 <borismiashiro@gmail.com>
+Date:   Thu Jun 8 21:10:26 2023 -0400
+
+    first commitment
